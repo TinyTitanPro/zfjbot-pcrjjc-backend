@@ -26,7 +26,7 @@ access_key="xxxxxxxxxxxxxxxxxxxxxxx"
 默认api
 
 ``` url
-htttp://127.0.0.1:9025/api/pcrjjc/get_profile?target_viewer_id={要查询的id}
+http://127.0.0.1:9025/api/pcrjjc/get_profile?target_viewer_id={要查询的id}
 ```
 
 个人使用demo
