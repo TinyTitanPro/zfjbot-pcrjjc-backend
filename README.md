@@ -35,6 +35,8 @@ htttp://127.0.0.1:9025/api/pcrjjc/get_profile?target_viewer_id={要查询的id}
 
 ## 感谢
 
-部分代码参考
+大部分(全是copy的)代码参考
+
 <https://github.com/infinityedge01/qqbot2>
+
 <https://github.com/lulu666lulu/pcrjjc>
