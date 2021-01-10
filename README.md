@@ -11,8 +11,11 @@ backend server for hoshino bot plugin pcrjjc(https://github.com/lulu666lulu/pcrj
 
 抓包获取自己的登录信息，以及`headers`，修改`run.py`
 
-``` ptrhon
+``` python
 # run.py
+# headers部分一大片自己改
+
+# 大概95行修改
 viewer_id=xxxxxxxxxxxxx
 uid="xxxxxxxxxxxxxx"
 access_key="xxxxxxxxxxxxxxxxxxxxxxx"
